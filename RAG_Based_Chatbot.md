@@ -1,9 +1,5 @@
 **RAG Based Chatbot**
 
-**ServiceTitan DS Internship 2024**
-
-**Round2**
-
 **Zaven Avagyan**
 
 **6/18/2024**
